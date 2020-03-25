@@ -1,0 +1,27 @@
+/*
+    * Métodos HTTP: 
+
+    - GET: Buscar uma informação do back-end.
+    - POST: Criar uma informação do back-end.
+    - PUT: Alterar uma informação do back-end.
+    - DELETE: Deletar uma informação do back-end.
+*/
+
+/*
+    * Tipos de Parâmetros:
+
+    - Query Params: Parâmetros nomeados enviados na rota após "?" (filtros, paginação).
+    - Route Params: Parâmetros utilizados para indentificar recursos.
+    - Request Body: Corpo da requisição, utilizado para criar ou alterar recursos.
+ */
+
+ /*
+    * SQL:
+    - MySQL, SQLite, PostgreSQL, Oracle, Microsoft SQL Server.
+
+    * NoSQL:
+    - MongoDB, CouchDB, etc.
+
+    * Driver: select * from users;
+    * Query Builder: table('users').select('*').where();
+ */
